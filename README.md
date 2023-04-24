@@ -1,4 +1,4 @@
-<h1>Hi, I'm Petra! <br/><a href="https://github.com/korhone">Software Development student</a>
+<h1>Hi, I'm Petra! <br/><a href="https://www.linkedin.com/in/petrakorhonen/">Software Development student</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
   
