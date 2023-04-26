@@ -14,7 +14,7 @@
 
 <h2>🌱 I’m currently learning</h2>
 
-- C#
+- C# object oriented programming
 - Python 
 - Basics of cyber security
 
