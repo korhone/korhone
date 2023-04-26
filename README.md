@@ -4,10 +4,10 @@
   
 - <b>Python</b>
   - [Hangman Project](https://github.com/korhone/hangmanProject)
-
+<!--
 - <b>C# (.NET Desktop Applications)</b>
   - [hyberlink project name](hyberlink for project)
-
+-->
 <h2>🔭 I’m currently working on</h2>
 
 - Small coding projects for get together evenings 
