@@ -4,10 +4,10 @@
   
 - <b>Python</b>
   - [Hangman Project](https://github.com/korhone/hangmanProject)
-<!--
+
 - <b>C# (.NET Desktop Applications)</b>
-  - [hyberlink project name](hyberlink for project)
--->
+  - [C# object-oriented programming](https://github.com/korhone/Bankcard-Object-oriented-C-)
+
 <h2>🔭 I’m currently working on</h2>
 
 - Small coding projects for get together evenings 
@@ -17,6 +17,7 @@
 - C# object oriented programming
 - Python 
 - Basics of cyber security
+- SQL
 
 <h2> 🤳 Connect with me:</h2>
 
