@@ -10,14 +10,15 @@
 
 <h2>🔭 I’m currently working on</h2>
 
-- Small coding projects for get together evenings 
+- Small coding projects for get together evenings
+- Website for faster file processing (Python, Html, CSS)
 
 <h2>🌱 I’m currently learning</h2>
 
 - C# object oriented programming
-- Python 
-- Basics of cyber security
-- SQL
+- Python (Pandas, Flask, file handling etc)
+- Cyber security
+- SQL and Databases (MySQL, MongoDB)
 
 <h2> 🤳 Connect with me:</h2>
 
