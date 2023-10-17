@@ -19,6 +19,7 @@
 - Python (Pandas, Flask, file handling etc)
 - Cyber security
 - SQL and Databases (MySQL, MongoDB)
+- CLIs
 
 <h2> 🤳 Connect with me:</h2>
 
