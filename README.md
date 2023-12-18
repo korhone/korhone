@@ -10,15 +10,16 @@
 
 <h2>🔭 I’m currently working on</h2>
 
-- Small coding projects for get together evenings
-- Website for faster file processing (Python, Html, CSS)
+- GUI for database utilization. Windows Forms App (.NET Framework) 
+- Relational database design for different fields
+- APIs
 
 <h2>🌱 I’m currently learning</h2>
 
 - C# object oriented programming
 - Python (Pandas, Flask, file handling etc)
 - Cyber security
-- SQL and Databases (MySQL, MongoDB)
+- SQL and Databases (MySQL, MSSQL, MongoDB)
 - CLIs
 
 <h2> 🤳 Connect with me:</h2>
@@ -27,6 +28,4 @@
 
 
 [linkedin]: https://www.linkedin.com/in/petrakorhonen/
-<!--
-**korhone/korhone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
