@@ -1,4 +1,4 @@
-<h1>Hi, I'm Petra! <br/><a href="https://www.linkedin.com/in/petrakorhonen/">Software Development student</a>
+<h1>Hi, I'm Petra! <br/><a href="https://www.linkedin.com/in/petrakorhonen/">Software Developer</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
   
@@ -6,7 +6,6 @@
 - <b>JS</b>
 - <b>MySQL</b>
 - <b>C#</b>
-  - 
 
 <h2>🔭 I’m currently working on</h2>
 
