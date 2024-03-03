@@ -3,24 +3,16 @@
 <h2>👨‍💻 Software Development Projects:</h2>
   
 - <b>Python</b>
-  - [Hangman Project](https://github.com/korhone/hangmanProject)
-
-- <b>C# (.NET Desktop Applications)</b>
-  - [C# object-oriented programming](https://github.com/korhone/Bankcard-Object-oriented-C-)
+- <b>JS</b>
+- <b>MySQL</b>
+- <b>C#</b>
+  - 
 
 <h2>🔭 I’m currently working on</h2>
 
-- GUI for database utilization. Windows Forms App (.NET Framework) 
-- Relational database design for different fields
-- APIs
-
-<h2>🌱 I’m currently learning</h2>
-
-- C# object oriented programming
-- Python (Pandas, Flask, file handling etc)
-- Cyber security
-- SQL and Databases (MySQL, MSSQL, MongoDB)
-- CLIs
+- Python scripts
+- Frontend basics 
+- Implementing APIs for different projects
 
 <h2> 🤳 Connect with me:</h2>
 
