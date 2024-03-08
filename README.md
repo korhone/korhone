@@ -1,11 +1,15 @@
-<h1>Hi, I'm Petra! <br/><a href="https://www.linkedin.com/in/petrakorhonen/">Software Developer</a>
+<h1>Hi, I'm Petra! <br/><a href="https://www.linkedin.com/in/petrakorhonen/" target="_blank">Software Developer</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
   
 - <b>Python</b>
-- <b>JS</b>
-- <b>MySQL</b>
+  - [Hangman Project](https://github.com/korhone/python-hangman)
+  - [Car Brand Analyzer](https://github.com/korhone/python-carlist)
+<!-- <b>NodeJS update coming</b> -->
+<!-- - <b>MySQ update comingL</b> -->
 - <b>C#</b>
+  - [Car dealership GUI](https://github.com/korhone/car-dealership)
+  - [Joke app](https://github.com/korhone/joke-app)
 
 <h2>🔭 I’m currently working on</h2>
 
